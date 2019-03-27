@@ -1,0 +1,2 @@
+compile:
+	gcc datatype.c bstree.c matrix.c main.c -o main

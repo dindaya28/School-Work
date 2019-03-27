@@ -1,0 +1,23 @@
+Script started on 2018-11-15 19:12:51-05:00
+bash-4.4$ pwd
+/gaul/s1/student/2018/ddayarat/Courses/CS2211a/Asns/asn4/Assignment4
+bash-4.4$ who am i
+ddayarat pts/19       2018-11-15 19:12
+bash-4.4$ date
+Thu Nov 15 19:13:02 EST 2018
+bash-4.4$ ./pie
+What precision of pie would you like to calculate to?
+0.0001
+The approximate value of pie is: 3.1416426511
+bash-4.4$ ./pie
+What precision of pie would you like to calculate to?
+0.0000001
+The approximate value of pie is: 3.1415927036
+bash-4.4$ ./pie
+What precision of pie would you like to calculate to?
+0.0000000001
+The approximate value of pie is: 3.1415926508
+bash-4.4$ exit
+exit
+
+Script done on 2018-11-15 19:14:21-05:00

@@ -1,0 +1,26 @@
+Script started on Thu 15 Nov 2018 06:56:43 PM EST
+bash-4.2$ pwd
+/gaul/s1/student/2018/ddayarat/Courses/CS2211a/Asns/asn4/Assignment4
+bash-4.2$ who am i
+ddayarat pts/11       2018-11-15 18:56
+bash-4.2$ date
+Thu Nov 15 18:57:05 EST 2018
+bash-4.2$ ./main2 < test.txt
+(!                          99)       9
+(Once                        1)      11
+(Once                        5)      50
+(Time                        4)      44
+(Upon                       22)       2
+(Vancouver                   8)      88
+(a                           3)      33
+(filmed                      6)      66
+(in                          7)      77
+(is                          5)      55
+bash-4.2$ ./main2 < test1.txt
+(asdf                        4)      56
+(key                         2)      25
+(sf                          6)      23
+bash-4.2$ exit
+exit
+
+Script done on Thu 15 Nov 2018 06:58:02 PM EST
