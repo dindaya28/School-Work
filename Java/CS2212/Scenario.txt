@@ -1,0 +1,49 @@
+PUB 1 TypeA h1 p1
+PUB 2 TypeB h1 p1
+PUB 3 TypeA h1 p1
+PUB 0 TypeA h1 p1
+PUB 0 TypeA h1 p1
+PUB 0 TypeA h1 p1
+PUB 0 TypeA h1 p1
+PUB 0 TypeA h1 p1
+PUB 0 TypeA h1 p1
+PUB 0 TypeA h1 p1
+PUB 0 TypeA h1 p1
+PUB 0 TypeA h1 p1
+PUB 0 TypeA h1 p1
+PUB 0 TypeA h1 p1
+PUB 0 TypeA h1 p1
+PUB 0 TypeA h1 p1
+PUB 0 TypeA h1 p1
+PUB 0 TypeA h1 p1
+BLOCK 0 cars
+BLOCK 1 cars
+BLOCK 2 cars
+BLOCK 3 cars
+BLOCK 4 cars
+BLOCK 5 cars
+BLOCK 6 cars
+BLOCK 7 cars
+BLOCK 8 cars
+BLOCK 9 cars
+BLOCK 10 cars
+BLOCK 1 cars
+BLOCK 1 cars
+BLOCK 4 cars
+BLOCK 0 cars
+SUB 0 cars
+SUB 1 main
+SUB 2 food
+SUB 3 cars
+SUB 6 cars
+SUB 7 cars
+SUB 8 cars
+SUB 9 cars
+SUB 10 cars
+SUB 0 cars
+SUB 1 cars
+SUB 2 cars
+SUB 3 cars
+SUB 4 cars
+SUB 6 cars
+SUB 7 cars

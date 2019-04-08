@@ -1,0 +1,12 @@
+PUB 1 TypeA h1 p1
+PUB 2 TypeB h1 p1
+PUB 3 TypeA h1 p1
+PUB 0 TypeA h1 p1
+BLOCK 0 cars
+BLOCK 1 cars
+BLOCK 2 cars
+BLOCK 3 cars
+SUB 0 cars
+SUB 1 cars
+SUB 2 cars
+SUB 3 cars
