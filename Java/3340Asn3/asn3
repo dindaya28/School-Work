@@ -1,0 +1,13 @@
+#Dinushan Dayarathna
+#250725428
+
+#!/bin/bash
+
+IFS= read -t 0.01 -r -d '' indata
+
+[[ -n $indata ]] && printf "%s" "$indata" >file
+
+javac Main.java
+java Main file
+
+rm file
