@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="3340Asn2/src"/>
+	<classpathentry kind="src" path="CS1027_Accounting/src"/>
+	<classpathentry kind="src" path="CS1027_Assignment1/src"/>
+	<classpathentry kind="src" path="CS1027_Assignment2/src"/>
+	<classpathentry kind="src" path="CS1027_Assignment3/src"/>
+	<classpathentry kind="src" path="CS1027_Assignment4/src"/>
+	<classpathentry kind="src" path="CS2210_Asn2/src"/>
+	<classpathentry kind="src" path="CS2210_Asn4/src"/>
+	<classpathentry kind="output" path="3340Asn2/bin"/>
+</classpath>
